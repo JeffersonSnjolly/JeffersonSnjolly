@@ -24,12 +24,6 @@
 
 ---
 
-<!-- GIF Horizontal Maior (Script sendo escrito) -->
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam51NHBydHNlZW1saHdtcHA2c29vc3JlMTJtZnhpc25pNWY3cGRxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Um3ljJl8jrnHy/giphy.gif" width="750" style="border-radius: 12px;"/>
-</p>
-
 ## 🧑‍💻 Sobre mim
 
 <p align="left">
@@ -64,19 +58,14 @@ Sou um profissional apaixonado por Python, engenharia de dados e soluções back
 ---
 
 ## 🎓 Certificações
-
+* **Engenharia de software – Estacio**
+* **Analise e desenvolvimento de sistemas - FAM**
 * **Fundamentos de Linguagem Python – DSA**
 * **Explorando Banco de Dados Relacionais com Python DB API – DIO**
 * **Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy – DIO & LuizLabs**
 
 ---
 
-
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="780" />
-</p>
-
----
 
 ## 🤝 Vamos nos conectar?
 
