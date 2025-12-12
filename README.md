@@ -27,14 +27,14 @@
 ## 🧑‍💻 Sobre mim
 
 <p align="left">
-Sou um profissional apaixonado por Python, engenharia de dados e soluções backend. Minha experiência inclui:
+Sou um profissional apaixonado por  engenharia de dados e soluções backend. Minha experiência inclui:
 </p>
 
 * 🚀 Construção de pipelines e automações de alto desempenho
 * 🔌 Integrações avançadas com bancos relacionais
 * 🏗️ Desenvolvimento de APIs robustas com FastAPI
 * 🧱 Modelagem, ETL/ELT e manipulação massiva de dados
-* 📊 Atuação com métricas, KPIs e análises estratégicas (Vivo Telefônica)
+* 📊 Atuação com métricas, KPIs e análises estratégicas
 
 💡 Meu foco é **qualidade, performance e boas práticas**, sempre buscando evolução contínua.
 
