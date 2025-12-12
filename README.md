@@ -23,7 +23,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 <p style="font-family: 'Georgia', serif; color:#222;">
 Sou apaixonado por <strong>engenharia de dados, backend e automação</strong>.<br>
 Meu trabalho busca soluções eficientes, escaláveis e com alta performance — sempre com um toque elegante e sofisticado no design das entregas.
