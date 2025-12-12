@@ -61,16 +61,6 @@ Meu trabalho busca soluções eficientes, escaláveis e com alta performance —
 
 ---
 
-<h3 align="center" style="font-family: 'Georgia', serif; color:#0b2545;">
-  👉 <strong>Pessoal do LinkedIn — segue meu GitHub!</strong><br>
-  Novos projetos com design moderno e soluções práticas 🔥
-</h3>
-
-<p align="center">
-  <a href="https://github.com/jeffersonsantossilvaa" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Visitar%20meu%20GitHub-%230b2545?style=for-the-badge&logo=github&logoColor=%23C9A54B" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
