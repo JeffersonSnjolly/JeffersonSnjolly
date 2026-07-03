@@ -14,8 +14,8 @@
 <!-- Badges (paleta elegante: dourado, marinho e off-white) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%230b2545?style=for-the-badge&logo=python&logoColor=%23C9A54B" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-%230b2545?style=for-the-badge&logo=fastapi&logoColor=%23C9A54B" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-%230b2545?style=for-the-badge&logo=django&logoColor=%23C9A54B" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-%230b2545?style=for-the-badge&logo=fastapi&logoColor=%23C9A54B" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Django-%230b2545?style=for-the-badge&logo=django&logoColor=%23C9A54B" alt="Azure"/>
   <img src="https://img.shields.io/badge/Pandas-%230b2545?style=for-the-badge&logo=pandas&logoColor=%23C9A54B" alt="Pandas"/>
   <img src="https://img.shields.io/badge/MongoDB-%230b2545?style=for-the-badge&logo=mongodb&logoColor=%23C9A54B" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%230b2545?style=for-the-badge&logo=postgresql&logoColor=%23C9A54B" alt="Postgres"/>
@@ -34,7 +34,6 @@ Meu trabalho busca soluções eficientes, escaláveis e com alta performance —
 - 🧱 Modelagem, ETL/ELT e manipulação de grandes volumes de dados
 - 🔌 Integrações com bancos relacionais e NoSQL (Postgres, MySQL, MongoDB)
 - 🏗️ Desenvolvimento de **APIs robustas** com FastAPI e Django
-- 📊 Métricas, KPIs e análises estratégicas
 
 ---
 
